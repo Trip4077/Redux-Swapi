@@ -1,5 +1,5 @@
 # Redux Swapi
-
+Bernard Johnson
 ---
 
 ## Topics
